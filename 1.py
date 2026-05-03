@@ -21,6 +21,6 @@ while True:
     if cv2.waitKey(1) == ord('q'):
         break
 
-cap.release()#
+cap.release()
 
 cv2.destroyAllWindows()
