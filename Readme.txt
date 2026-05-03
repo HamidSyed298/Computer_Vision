@@ -1,5 +1,5 @@
 This repository contains a collection of Python scripts for computer 
-vision programming, aimed at beginners to intermediate users.  The code covers 
+vision programming, aimed at beginners to intermediate users. The code covers 
 the basics of computer vision techniques, including image processing, 
 object detection, and facial recognition. The scripts have been 
 designed to be easy to understand and modify, with detailed comments 
