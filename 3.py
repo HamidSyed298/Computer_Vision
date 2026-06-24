@@ -14,7 +14,7 @@ while True:
     upper_blue = np.array([130, 255, 255])
     mask = cv2.inRange(hsv, lower_blue, upper_blue)
     result = cv2.bitwise_and(frame, frame, mask = mask)
-#Here is something valuable
+
     cv2.imshow('Frame', result)
     cv2.imshow('Mask',mask)
 
