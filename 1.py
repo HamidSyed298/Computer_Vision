@@ -1,4 +1,4 @@
-#Images Rotation
+#Rotation of Images
 import numpy as np
 
 import cv2
