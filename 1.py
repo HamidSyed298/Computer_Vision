@@ -1,6 +1,6 @@
 #Rotation of Images
 import numpy as np
-import torch
+import torch#Not needed in this file though
 import cv2
 
 cap = cv2.VideoCapture(0) 
