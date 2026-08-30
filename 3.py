@@ -1,4 +1,4 @@
-#Color Changing
+#Color Changing Script
 import numpy as np
 import cv2
 
