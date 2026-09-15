@@ -1,7 +1,7 @@
 #Line and Circles Drawing
 import numpy as np
 import cv2
-
+#Initiating
 cap = cv2.VideoCapture(0)
 
 while True:
