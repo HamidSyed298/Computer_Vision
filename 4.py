@@ -1,4 +1,4 @@
-#Corner Detection
+#Corner Detection Script
 import numpy as np
 import cv2
 
