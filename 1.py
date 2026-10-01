@@ -1,4 +1,3 @@
-#Rotation of Images
 import numpy as np
 import torch#Not needed in this file though
 import cv2
