@@ -1,5 +1,6 @@
 import numpy as np
 import cv2
+import torch
 
 img = cv2.resize(cv2.imread('images/soccer_practice.jpg', 0), (0, 0), fx=0.8, fy=0.8)#resizing
 template = cv2.resize(cv2.imread('images/shoe.PNG', 0), (0, 0), fx=0.8, fy=0.8)
