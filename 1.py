@@ -1,5 +1,5 @@
 import numpy as np
-import torch#Not needed in this file though
+import torch #Not needed in this file though
 import cv2 #importing
 
 cap = cv2.VideoCapture(0) 
